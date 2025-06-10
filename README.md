@@ -1,6 +1,6 @@
 # 🏙️ LocalLoop
 
-**LocalLoop** is an open-source neighborhood platform designed to connect communities through local events and deals. From discovering nearby activities to finding the best local offers, this project empowers neighborhoods to build stronger connections and support local businesses.
+**LocalLoop** is an open-source neighborhood platform designed to connect communities through local events and deals. From discovering nearby activities to finding the best local offers, this project empowers neighborhoods to build stronger connections and support local businesses. 
 
 ---
 
